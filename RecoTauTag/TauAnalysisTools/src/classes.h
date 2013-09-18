@@ -1,7 +1,7 @@
-#include "RecoTauTag/TauAnalysisTools/interface/TauTrigMatch.h"
+#include "RecoTauTag/TauAnalysisTools/interface/TauInfoContainer.h"
 
 namespace {
 
- TauTrigMatch dummyMatch;
+ TauInfoContainer dummyInfoObj;
 
 }
